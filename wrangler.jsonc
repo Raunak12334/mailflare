@@ -9,6 +9,7 @@
 		"global_fetch_strictly_public"
 	],
 	"assets": {
+         "directory": "./dist/",
 		"binding": "ASSETS",
 		"not_found_handling": "none",
 	},
